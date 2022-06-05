@@ -1,4 +1,4 @@
-# restapi
+# REST API
 
 
 ### Project structure 
